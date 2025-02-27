@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CR65Test</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>89d8cdcc-e94e-4b5b-ab45-2cab10249e7c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8458946-1262-4145-866c-92d633c71c26</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'&lt;a class=&quot;ui-state-default ui-state-highlight ui-state-active&quot; href=&quot;#&quot; style=&quot;outline:rgb(255,0,0)solid 2px;&quot;>10&lt;/a>'</defaultValue>
+      <description></description>
+      <id>b8458946-1262-4145-866c-92d633c71c26</id>
+      <masked>true</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

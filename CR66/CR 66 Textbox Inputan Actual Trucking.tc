@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CR 66 Textbox Inputan Actual Trucking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>098ed767-338d-472d-a264-6c6fe687f1cf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7c6dbbbf-bb70-4e35-8103-7cd83f1d1954</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'&lt;input type=&quot;date&quot; class=&quot;form-control&quot; id=&quot;InvoiceDate&quot;> ==$0'</defaultValue>
+      <description></description>
+      <id>7c6dbbbf-bb70-4e35-8103-7cd83f1d1954</id>
+      <masked>false</masked>
+      <name>css</name>
+   </variable>
+</TestCaseEntity>
